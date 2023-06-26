@@ -5,7 +5,7 @@
 # [Stylista](https://playful-caramel-2a397b.netlify.app/html/index.html)
 
 It's E-commerce website Where you can buy stuff
-especially for clothing stuff,It's clone of [koov's](https://www.koovs.com/) and also it's completely responsive website.
+especially for clothing stuff,It's clone of [koov's](https://www.koovs.com/) 
 
   Team Member
 
